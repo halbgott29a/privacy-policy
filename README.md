@@ -3,7 +3,7 @@
 **Última actualización: 13/01/2025**
 
 ## 1. Quiénes somos
-Somos Selectum, responsables de la aplicación bot_testgpt-IG que ofrece un bot de mensajería para Instagram.
+Somos Selectum, responsables de la aplicación slonpay-IG que ofrece un bot de mensajería para Instagram.
 
 ## 2. Información que recopilamos
 - **Identificadores de Instagram**: Recopilamos el ID de usuario de Instagram y, en algunos casos, el nombre de usuario.
