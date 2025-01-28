@@ -3,7 +3,7 @@
 **Última actualización: 13/01/2025**
 
 ## 1. Quiénes somos
-Somos Selectum, responsables de la aplicación slonpay-IG que ofrece un bot de mensajería para Instagram.
+Somos 3c3, responsables de la aplicación 3c3 agente-IG que ofrece un bot de mensajería para Instagram.
 
 ## 2. Información que recopilamos
 - **Identificadores de Instagram**: Recopilamos el ID de usuario de Instagram y, en algunos casos, el nombre de usuario.
@@ -40,4 +40,4 @@ Podemos actualizar esta política periódicamente. Cualquier cambio será public
 Para dudas o sugerencias acerca de esta política, escríbenos a: [correo electrónico de contacto].
 
 ---
-© 2025 Selectum. Todos los derechos reservados.
+© 2025 3c3. Todos los derechos reservados.
